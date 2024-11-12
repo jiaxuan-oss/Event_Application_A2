@@ -1,4 +1,5 @@
 #Assignment 2 (30%)
+
 Things you will learn 🎖️
 In this assignment, you will develop a more comprehensive event management Android application. This project will equip you with the skills to build such an application.
 
